@@ -3,6 +3,9 @@
 ## Live Demo
 https://todo-app-5eqo.vercel.app/
 
+## Screenshot
+![Todo Screenshot](screenshot todo.png)
+
 A simple React application to manage tasks. You can add and remove tasks dynamically.
 
 ## Features
